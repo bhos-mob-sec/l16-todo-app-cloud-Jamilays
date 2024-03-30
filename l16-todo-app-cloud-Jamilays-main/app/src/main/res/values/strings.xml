@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L14 Todo app</string>
+    <string name="create_your_first_to_do_list">Create your first to-do list</string>
+    <string name="new_list">New list</string>
+    <string name="choose_category">Choose category</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
+    <string name="finance">Finance</string>
+    <string name="work">Work</string>
+</resources>
